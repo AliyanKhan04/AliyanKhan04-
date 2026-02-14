@@ -166,43 +166,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- ========== FEATURED COSMIC PROJECTS ========== -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="60"/>
-  🪐 FEATURED COSMIC PROJECTS 🪐
-  <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="60"/>
-</h1>
 
-<div align="center">
-  
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/AliyanKhan04/project-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliyanKhan04&repo=project-1&theme=radical&border_color=00ffff&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&border_radius=20&show_owner=true&description_lines_count=3" width="100%"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/AliyanKhan04/project-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliyanKhan04&repo=project-2&theme=radical&border_color=ff00ff&bg_color=0d1117&title_color=ff00ff&icon_color=00ffff&text_color=ffffff&border_radius=20&show_owner=true&description_lines_count=3" width="100%"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/AliyanKhan04/project-3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliyanKhan04&repo=project-3&theme=radical&border_color=ffff00&bg_color=0d1117&title_color=ffff00&icon_color=00ffff&text_color=ffffff&border_radius=20&show_owner=true&description_lines_count=3" width="100%"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/AliyanKhan04/project-4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliyanKhan04&repo=project-4&theme=radical&border_color=ff69b4&bg_color=0d1117&title_color=ff69b4&icon_color=00ffff&text_color=ffffff&border_radius=20&show_owner=true&description_lines_count=3" width="100%"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 <!-- ========== COSMIC TIMELINE ========== -->
 <h1 align="center">
