@@ -213,42 +213,6 @@
 
 <div align="center">
   
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "2022 - The Awakening",
-        "description": "HTML/CSS Journey Begins"
-      }
-    },
-    {
-      "type": "Feature", 
-      "properties": {
-        "name": "2023 - Full Stack Evolution",
-        "description": "JavaScript & PHP Mastery"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "2024 - Mobile Universe",
-        "description": "Flutter & .NET Excellence"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "2025 - AI Frontier",
-        "description": "Machine Learning & Cloud"
-      }
-    }
-  ]
-}
-
-</div><!-- ========== QUANTUM DIVIDER ========== --><div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </div><!-- ========== CONNECT PORTAL ========== --><h1 align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/> 🌐 CONNECT THROUGH THE PORTAL 🌐 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/> </h1><div align="center"><table border="0" cellspacing="20"> <tr> <td align="center"> <a href="https://www.linkedin.com/in/aliyankhan04"> <img src="https://img.icons8.com/fluency/96/linkedin.png" width="80"/> <br> <font size="4"><b>LinkedIn</b></font> </a> </td> <td align="center"> <a href="mailto:aliyankhan04@gmail.com"> <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="80"/> <br> <font size="4"><b>Email</b></font> </a> </td> <td align="center"> <a href="https://github.com/AliyanKhan04"> <img src="https://img.icons8.com/fluency/96/github.png" width="80"/> <br> <font size="4"><b>GitHub</b></font> </a> </td> <td align="center"> <a href="https://twitter.com/aliyankhan04"> <img src="https://img.icons8.com/fluency/96/twitterx.png" width="80"/> <br> <font size="4"><b>Twitter</b></font> </a> </td> </tr> </table><!-- Holographic Contact Form --><p> <a href="https://www.linkedin.com/in/aliyankhan04"> <img src="https://img.shields.io/badge/SEND%20A%20COSMIC%20SIGNAL-00ffff?style=for-the-badge&logo=rocket&logoColor=black&labelColor=ff00ff&color=00ffff&link=https://www.linkedin.com/in/aliyankhan04" height="50"/> </a> </p></div><!-- ========== COSMIC DIVIDER ========== --><div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </div><!-- ========== WISDOM QUASAR ========== --><h1 align="center"> <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="60"/> 💫 COSMIC WISDOM 💫 <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="60"/> </h1><div align="center"><p> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=In%20the%20quantum%20realm%20of%20code%2C%20every%20line%20creates%20a%20new%20universe%20of%20possibilities.&author=Aliyan%20Khan" width="800"/> </p><p> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=100&color=00FFFF&center=true&vCenter=true&width=900&lines=✨+Think+Beyond+the+Code+✨;🚀+Innovate+Beyond+the+Stars+🚀;💫+Create+Beyond+Imagination+💫" alt="Wisdom"/> </p></div><!-- ========== FOOTER WORMHOLE ========== --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,24&height=200&section=footer&text=🚀%20ALIYAN%20KHAN%20🚀&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%"/><p> <font size="5">⭐ <b>Star Your Favorite Repositories</b> ⭐</font> </p><p> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/> </p></div><!-- ========== QUANTUM ANIMATION STYLES ========== --><style> @keyframes hologram { 0% { box-shadow: 0 0 30px #00ffff, 0 0 60px #ff00ff; transform: scale(1); } 25% { box-shadow: 0 0 40px #ff00ff, 0 0 80px #00ffff; transform: scale(1.02); } 50% { box-shadow: 0 0 50px #00ffff, 0 0 100px #ff00ff; transform: scale(1.05); } 75% { box-shadow: 0 0 40px #ff00ff, 0 0 80px #00ffff; transform: scale(1.02); } 100% { box-shadow: 0 0 30px #00ffff, 0 0 60px #ff00ff; transform: scale(1); } } @keyframes quantum-pulse { 0% { opacity: 0.6; transform: scale(0.95); } 50% { opacity: 1; transform: scale(1); } 100% { opacity: 0.6; transform: scale(0.95); } } img { transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55); } img:hover { transform: scale(1.05) rotate(2deg); filter: hue-rotate(90deg) brightness(1.2); } table tr td { transition: all 0.4s ease; border-radius: 20px; } table tr td:hover { transform: translateY(-15px) scale(1.02); box-shadow: 0 30px 50px rgba(0,255,255,0.4); background: linear-gradient(145deg, #0d1117, #1a1f2a); } </style>
 
 
 ## 🎯 **COSMIC FEATURES EXPLAINED:**
