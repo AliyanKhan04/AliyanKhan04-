@@ -147,11 +147,6 @@
 
 <br><br>
 
-<!-- Quantum Stats Cards -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliyanKhan04&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&border_radius=20&include_all_commits=true&rank_icon=github&show=reviews,discussions_started" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliyanKhan04&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff&border_radius=20&langs_count=8&size_weight=0.5&count_weight=0.5" width="48%"/>
-</p>
 
 <!-- Cosmic Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliyanKhan04&theme=radical&hide_border=true&background=0d1117&stroke=00ffff&ring=ff00ff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=ffffff&dates=ffffff&border_radius=20" width="96%"/>
