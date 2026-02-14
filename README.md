@@ -91,19 +91,7 @@
 
 </div>
 
-<!-- ========== HOLOGRAPHIC SKILL METRICS ========== -->
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://progress-bar.dev/95/?title=💻%20Frontend%20Mastery&width=200&color=ff69b4"/></td>
-      <td><img src="https://progress-bar.dev/90/?title=⚙️%20Backend%20Architecture&width=200&color=00ffff"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://progress-bar.dev/85/?title=🎨%20UI/UX%20Design&width=200&color=ff00ff"/></td>
-      <td><img src="https://progress-bar.dev/88/?title=🤖%20AI%20Integration&width=200&color=yellow"/></td>
-    </tr>
-  </table>
-</div>
+
 
 <!-- ========== QUANTUM DIVIDER ========== -->
 <div align="center">
