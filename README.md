@@ -152,7 +152,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliyanKhan04&theme=radical&hide_border=true&background=0d1117&stroke=00ffff&ring=ff00ff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=ffffff&dates=ffffff&border_radius=20" width="96%"/>
 
 <!-- Holographic Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=AliyanKhan04&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=AliyanKhan04&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/> -->
 
 </div>
 
